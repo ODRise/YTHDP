@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name                Youtube HD Premium
 // @icon                https://www.youtube.com/img/favicon_48.png
-// @version             3.1.0
+// @version             3.1.1
 // @author              RM
 // @homepageURL         https://github.com/ODRise/YTHDP
-// @match               *://*.youtube.com/*/*
-// @match               *://www.youtube-nocookie.com/embed/*
-// @exclude             *://*.music.https://www.youtube.com/*\n//
-// @exclude             *://*.studio.https://m.youtube.com/*\n//
+// @match               *://*.www.youtube.com/*
+// @match               *://*.youtube-nocookie.com/embed/*
+// @exclude             *://music.www.youtube.com/*
+// @exclude             *://studio.www.youtube.com/*
 // @grant               GM.getValue
 // @grant               GM.setValue
 // @grant               GM.deleteValue
