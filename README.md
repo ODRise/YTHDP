@@ -22,13 +22,17 @@ A reliable userscript that automatically switches YouTube to high quality (1080p
     * **Chrome/Edge**: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
     * **Firefox**: [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
     * **Safari**: [Tampermonkey](https://apps.apple.com/us/app/tampermonkey/id1482490089)
-
+  
 2.  **Click the link below to install the script**:
     * [**Install YouTube HD Premium**](https://raw.githubusercontent.com/ODRise/YTHDP/main/youtube-hd-premium.user.js)
 
 3.  Your userscript manager should prompt you to confirm the installation.
 4.  Once installed, the script should be automatically enabled.
 5.  Reload any open YouTube pages and check the Tampermonkey menu (usually accessible via the extension icon in your browser's toolbar) for "YouTube HD Premium" options.
+
+## ⭐ Important Prerequisite for Chrome Users
+For users of the Tampermonkey extension (version 5.3+) in a Chrome-based browser, enabling either the "Allow User Scripts" toggle (available in Chrome 138+ via extension settings) or Developer Mode is required.
+This is a browser security setting necessary for Tampermonkey to inject scripts into web pages.
 
 ## 🎛️ Configuration Options
 
