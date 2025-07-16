@@ -24,7 +24,7 @@ A reliable userscript that automatically switches YouTube to high quality (1080p
     * **Safari**: [Tampermonkey](https://apps.apple.com/us/app/tampermonkey/id1482490089)
   
 2.  **Click the link below to install the script**:
-    * [**Install YouTube HD Premium**](https://raw.githubusercontent.com/ODRise/YTHDP/main/youtube-hd-premium.user.js)
+    * [**Install YouTube HD Premium**](https://raw.githubusercontent.com/OD728/YTHDP/main/youtube-hd-premium.user.js)
 
 3.  Your userscript manager should prompt you to confirm the installation.
 4.  Once installed, the script should be automatically enabled.
@@ -145,7 +145,7 @@ MIT License - feel free to modify and distribute.
 ## 🤝 Contributing
 
 Found a bug or have an improvement? Please feel free to:
--   Open an issue on the [GitHub repository](https://github.com/ODRise/YTHDP).
+-   Open an issue on the [GitHub repository](https://github.com/OD728/YTHDP).
 -   Submit a pull request with your changes.
 
 ### Known Limitations
