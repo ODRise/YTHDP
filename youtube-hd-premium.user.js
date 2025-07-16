@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name                Youtube HD Premium
 // @icon                https://www.youtube.com/img/favicon_48.png
-// @version             3.1.1
+// @version             3.1.2
 // @author              RM
-// @homepageURL         https://github.com/ODRise/YTHDP
+// @homepageURL         https://github.com/OD728/YTHDP
 // @match               *://*.www.youtube.com/*
 // @match               *://*.youtube-nocookie.com/embed/*
 // @exclude             *://music.www.youtube.com/*
@@ -26,8 +26,8 @@
 // @grant               GM_xmlhttpRequest
 // @license             MIT
 // @description         Automatically switches to high quality (1080p+)
-// @downloadURL         https://raw.githubusercontent.com/ODRise/YTHDP/main/youtube-hd-premium.user.js
-// @updateURL           https://raw.githubusercontent.com/ODRise/YTHDP/main/youtube-hd-premium.user.js
+// @downloadURL         https://raw.githubusercontent.com/OD728/YTHDP/main/youtube-hd-premium.user.js
+// @updateURL           https://raw.githubusercontent.com/OD728/YTHDP/main/youtube-hd-premium.user.js
 // ==/UserScript==
 
 /*jshint esversion: 11 */
