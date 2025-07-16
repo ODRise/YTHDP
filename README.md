@@ -1,5 +1,10 @@
 # YouTube HD Premium
 
+![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Tampermonkey](https://img.shields.io/badge/Tampermonkey-compatible-brightgreen.svg)
+![Greasemonkey](https://img.shields.io/badge/Greasemonkey-compatible-brightgreen.svg)
+
 A userscript that automatically switches YouTube to high quality (1080p+) with intelligent quality management.
 
 ## Features
