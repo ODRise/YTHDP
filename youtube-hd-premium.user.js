@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name                Youtube HD Premium
 // @icon                https://www.youtube.com/img/favicon_48.png
-// @version             3.1.2
+// @version             1.0
 // @author              RM
 // @homepageURL         https://github.com/OD728/YTHDP
 // @match               *://*.www.youtube.com/*
